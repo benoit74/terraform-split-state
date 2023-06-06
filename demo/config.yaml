@@ -1,0 +1,8 @@
+original_path: orig_project_after
+destinations:
+  1_new_project:
+    path: 1_new_project
+    regex: .*move\_to\_1.*
+  2_new_project:
+    path: 2_new_project
+    regex: .*move\_to\_2.*
